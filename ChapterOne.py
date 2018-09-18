@@ -36,16 +36,17 @@ def mutual_friends_count(users):
 # List of users each is represented by a dict that contains for each user
 # his or her id (which is a number) and name
 users = [
+    
     {"id": 0, "name": "Azaraf"},
     {"id": 1, "name": "Armandito"},
-    {"id": 2, "name": "Karlita"},
-    {"id": 3, "name": "Monse"},
-    {"id": 4, "name": "Steve"},
-    {"id": 5, "name": "Cesar"},
-    {"id": 6, "name": "Julio"},
-    {"id": 7, "name": "Jalipe"},
-    {"id": 8, "name": "Dany"},
-    {"id": 9, "name": "Alex"},
+    {"id": 2, "name": "Alex"},
+    {"id": 3, "name": "Dany"},
+    {"id": 4, "name": "Cesar"},
+    {"id": 5, "name": "Karlita"},
+    {"id": 6, "name": "Monse"},
+    {"id": 7, "name": "Steve"},
+    {"id": 8, "name": "Julio"},
+    {"id": 9, "name": "Jalipe"},
     {"id": 10, "name": "Omi"},
     {"id": 11, "name": "Zavala"},
     {"id": 12, "name": "Salvador"},
